@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "configurations": [
+    {
+      "name": "Attach to stracxn instance",
+      "type": "chrome",
+      "request": "attach",
+      "port": 8088,
+      "webRoot": "f:\\react\\react-site\\"
+    }
+  ]
+}
